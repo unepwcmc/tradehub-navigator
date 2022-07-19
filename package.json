@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "^5.3.0",
-    "@unep-wcmc/wcmc-components": "^2.2.3",
+    "@unep-wcmc/wcmc-components": "^2.2.4",
     "autoprefixer": "^10",
     "cookieconsent": "^3.1.1",
     "css-loader": "^5",

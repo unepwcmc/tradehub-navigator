@@ -1,6 +1,8 @@
 module HomeHelper
   LIME = '#AFB90F'
+  LIME_DARK = '#757C0A'
   TEAL = '#2F4F5D'
+
 
   def filterableTableOptions
     { 
@@ -74,7 +76,8 @@ module HomeHelper
         buttonBorderRadius: '2px',
         buttonBgColor: LIME,
         textTitle: 'Showing',
-        textItems: 'entries'
+        textItems: 'entries',
+        pageSelectedBgColor: LIME_DARK
       },
       rows: {
         bgColor1: '#F7FAFB',
